@@ -1,4 +1,4 @@
 # student_demo
 This is my first git repository.
 <br>
-Author - Meghana.
+Author - Meghana Nalla
